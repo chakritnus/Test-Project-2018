@@ -1,6 +1,6 @@
 # Test-Project-2018
 Software eng
 
-# team mumber
+# team member
 - นาย ก
 - นาย ข
